@@ -1,0 +1,40 @@
+C:\Users\jonix\source\repos\Arbo_AVL\Arbo_AVL\bin\Debug\Arbo_AVL.exe.config
+C:\Users\jonix\source\repos\Arbo_AVL\Arbo_AVL\bin\Debug\Arbo_AVL.exe
+C:\Users\jonix\source\repos\Arbo_AVL\Arbo_AVL\bin\Debug\Arbo_AVL.pdb
+C:\Users\jonix\source\repos\Arbo_AVL\Arbo_AVL\obj\Debug\Arbo_AVL.csproj.AssemblyReference.cache
+C:\Users\jonix\source\repos\Arbo_AVL\Arbo_AVL\obj\Debug\Arbo_AVL.Form1.resources
+C:\Users\jonix\source\repos\Arbo_AVL\Arbo_AVL\obj\Debug\Arbo_AVL.Properties.Resources.resources
+C:\Users\jonix\source\repos\Arbo_AVL\Arbo_AVL\obj\Debug\Arbo_AVL.csproj.GenerateResource.cache
+C:\Users\jonix\source\repos\Arbo_AVL\Arbo_AVL\obj\Debug\Arbo_AVL.csproj.CoreCompileInputs.cache
+C:\Users\jonix\source\repos\Arbo_AVL\Arbo_AVL\obj\Debug\Arbo_AVL.exe
+C:\Users\jonix\source\repos\Arbo_AVL\Arbo_AVL\obj\Debug\Arbo_AVL.pdb
+C:\Users\User\Downloads\ped\ped\guias\Arbo_AVL\Arbo_AVL\bin\Debug\Arbo_AVL.exe.config
+C:\Users\User\Downloads\ped\ped\guias\Arbo_AVL\Arbo_AVL\bin\Debug\Arbo_AVL.exe
+C:\Users\User\Downloads\ped\ped\guias\Arbo_AVL\Arbo_AVL\bin\Debug\Arbo_AVL.pdb
+C:\Users\User\Downloads\ped\ped\guias\Arbo_AVL\Arbo_AVL\obj\Debug\Arbo_AVL.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\ped\ped\guias\Arbo_AVL\Arbo_AVL\obj\Debug\Arbo_AVL.Form1.resources
+C:\Users\User\Downloads\ped\ped\guias\Arbo_AVL\Arbo_AVL\obj\Debug\Arbo_AVL.Properties.Resources.resources
+C:\Users\User\Downloads\ped\ped\guias\Arbo_AVL\Arbo_AVL\obj\Debug\Arbo_AVL.csproj.GenerateResource.cache
+C:\Users\User\Downloads\ped\ped\guias\Arbo_AVL\Arbo_AVL\obj\Debug\Arbo_AVL.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\ped\ped\guias\Arbo_AVL\Arbo_AVL\obj\Debug\Arbo_AVL.exe
+C:\Users\User\Downloads\ped\ped\guias\Arbo_AVL\Arbo_AVL\obj\Debug\Arbo_AVL.pdb
+C:\Proyectos PED\Arbo_AVL\Arbo_AVL\bin\Debug\Arbo_AVL.exe.config
+C:\Proyectos PED\Arbo_AVL\Arbo_AVL\bin\Debug\Arbo_AVL.exe
+C:\Proyectos PED\Arbo_AVL\Arbo_AVL\bin\Debug\Arbo_AVL.pdb
+C:\Proyectos PED\Arbo_AVL\Arbo_AVL\obj\Debug\Arbo_AVL.csproj.AssemblyReference.cache
+C:\Proyectos PED\Arbo_AVL\Arbo_AVL\obj\Debug\Arbo_AVL.Form1.resources
+C:\Proyectos PED\Arbo_AVL\Arbo_AVL\obj\Debug\Arbo_AVL.Properties.Resources.resources
+C:\Proyectos PED\Arbo_AVL\Arbo_AVL\obj\Debug\Arbo_AVL.csproj.GenerateResource.cache
+C:\Proyectos PED\Arbo_AVL\Arbo_AVL\obj\Debug\Arbo_AVL.csproj.CoreCompileInputs.cache
+C:\Proyectos PED\Arbo_AVL\Arbo_AVL\obj\Debug\Arbo_AVL.exe
+C:\Proyectos PED\Arbo_AVL\Arbo_AVL\obj\Debug\Arbo_AVL.pdb
+C:\Users\irvin\Downloads\Arbo_AVL\Arbo_AVL\Arbo_AVL\bin\Debug\Arbo_AVL.exe.config
+C:\Users\irvin\Downloads\Arbo_AVL\Arbo_AVL\Arbo_AVL\bin\Debug\Arbo_AVL.exe
+C:\Users\irvin\Downloads\Arbo_AVL\Arbo_AVL\Arbo_AVL\bin\Debug\Arbo_AVL.pdb
+C:\Users\irvin\Downloads\Arbo_AVL\Arbo_AVL\Arbo_AVL\obj\Debug\Arbo_AVL.csprojAssemblyReference.cache
+C:\Users\irvin\Downloads\Arbo_AVL\Arbo_AVL\Arbo_AVL\obj\Debug\Arbo_AVL.Form1.resources
+C:\Users\irvin\Downloads\Arbo_AVL\Arbo_AVL\Arbo_AVL\obj\Debug\Arbo_AVL.Properties.Resources.resources
+C:\Users\irvin\Downloads\Arbo_AVL\Arbo_AVL\Arbo_AVL\obj\Debug\Arbo_AVL.csproj.GenerateResource.cache
+C:\Users\irvin\Downloads\Arbo_AVL\Arbo_AVL\Arbo_AVL\obj\Debug\Arbo_AVL.csproj.CoreCompileInputs.cache
+C:\Users\irvin\Downloads\Arbo_AVL\Arbo_AVL\Arbo_AVL\obj\Debug\Arbo_AVL.exe
+C:\Users\irvin\Downloads\Arbo_AVL\Arbo_AVL\Arbo_AVL\obj\Debug\Arbo_AVL.pdb
